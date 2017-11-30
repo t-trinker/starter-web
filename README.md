@@ -20,4 +20,5 @@ deploy.deploy.deploy.deploy.
 And here is the Closing Statement.
 
 ## Copyright
-tüdelü
+
+tüdelü. All rights reserved

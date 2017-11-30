@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Peter Kluppke	pk@gmx.de	peterle
 
 # THANKS
 

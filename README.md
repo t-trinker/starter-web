@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 ## Closing Statement
 
 And here is the Closing Statement.
+
+## Copyright
+tüdelü
